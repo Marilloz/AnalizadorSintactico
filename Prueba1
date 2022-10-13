@@ -1,0 +1,20 @@
+/* Ejemplo #1*/
+
+let string	cadena;
+input(cadena);
+let boolean logico1;
+let boolean logico2;
+let int		int2;
+int1 = 000000378;
+
+int2 = int1;
+cadena = "string";
+
+function ff string(string ss)
+{
+	logico2 =  logico1;
+		if (logico2) cadena = ff (ss);
+	varglobal = 78;
+	return cadena;
+}
+
